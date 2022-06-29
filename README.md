@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose 
 A website that offers fitness training services.
@@ -13,3 +13,5 @@ https://eburka.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Elilta Burka
+
+### ©️2022 Run Buddy, Inc 
