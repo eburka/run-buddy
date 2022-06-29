@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# Run Buddy Inc.
-
-## Purpose
-=======
 # Run Buddy, Inc
->>>>>>> be01e608b8427a298ca55775f5072cea92f62b82
 
 A website that offers fitness training services.
 
@@ -22,4 +16,4 @@ https://eburka.github.io/run-buddy/
 
 Made with ❤️ by Elilta Burka
 
-### ©️2022 Run Buddy, Inc 
+### ©️2022 Run Buddy, Inc
